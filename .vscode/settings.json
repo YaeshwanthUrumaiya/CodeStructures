@@ -1,4 +1,5 @@
 {
     "python.analysis.typeCheckingMode": "basic",
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "GitHooks.hooksDirectory": "c:\\Users\\yaesh\\OneDrive\\Desktop\\College\\Projects\\CodeStructures\\.git\\hooks"
 }
